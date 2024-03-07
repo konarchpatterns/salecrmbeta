@@ -54,9 +54,9 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://konarch.in/ftpconnection/'),
+    'url' => env('APP_URL', 'https://konarch.in/'),
 
-    'asset_url' => env('ASSET_URL', null),
+    'asset_url' => env('ASSET_URL', 'https://konarch.in/ftpconnection/'),
 
     /*
     |--------------------------------------------------------------------------
